@@ -1,1 +1,1 @@
-# improving_the_useless_stalin_sorting_algorithm
+# improving_the_useless_stalin_sort_algorithm
