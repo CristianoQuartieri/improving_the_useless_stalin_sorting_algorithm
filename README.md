@@ -1,4 +1,4 @@
-# improving_the_useless_stalin_sort_algorithm
+# improving_the_stalin_sort_algorithm
 
 This project implements an adaptive sorting algorithm inspired by the (useless) 'Stalin Sort'.
 
